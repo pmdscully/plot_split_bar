@@ -11,9 +11,9 @@ from matplotlib.font_manager import findfont, FontProperties
 # if any([os.path.exists(fn) for fn in font_dir]):
 #     for font in font_manager.findSystemFonts(font_dir):
 #         font_manager.fontManager.addfont(font)    
-matplotlib.rcParams['font.family'] = 'sans-serif'
-font = findfont(FontProperties(family=['arial']))
-matplotlib.rcParams['font.sans-serif'] = 'arial'
+# matplotlib.rcParams['font.family'] = 'sans-serif'
+# font = findfont(FontProperties(family=['arial']))
+# matplotlib.rcParams['font.sans-serif'] = 'arial'
 
 
 def plot_split_bar(data:np.array, rows:list, columns:list, 
