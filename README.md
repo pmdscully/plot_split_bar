@@ -11,6 +11,8 @@
 pip install git+https://github.com/pmdscully/plot_split_bar.git
 ```
 
+Open an [Example notebook in Google-Colab](https://colab.research.google.com/drive/1p7v7e3AY6kCOEhR2mNhFp7lEvt2cAj--?usp=sharing)
+
 ## Example 1: Usage with Global CO2 emissions from fossil-fuel data:
 [Source of dataset](https://ourworldindata.org/grapher/co2-emissions-by-fuel-line)
 ```python
