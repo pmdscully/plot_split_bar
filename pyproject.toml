@@ -1,0 +1,8 @@
+[project]
+name = "plot_split_bar"
+version = "v0.2.0-alpha"
+dependencies = [
+    'pandas',
+    'numpy',
+    'matplotlib',
+]
