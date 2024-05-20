@@ -1,7 +1,6 @@
 # How to create a Split-Bar plot with `matplotlib`:
 
-![Split-bar_](https://github.com/pmdscully/plot_split_bar/assets/3637403/3c62c6c3-7a27-4441-aa2c-5cefc1cc6614)
-
+<img src="https://github.com/pmdscully/plot_split_bar/assets/3637403/3c62c6c3-7a27-4441-aa2c-5cefc1cc6614" width="300">
 
 ## Requirements:
 - shapely (via pip) <=2.0.1 or >2.0.1. (only requires `Polygon` class)
